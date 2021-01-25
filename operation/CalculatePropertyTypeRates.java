@@ -15,7 +15,7 @@ import domain.VacantLand;
 
 /**
  * 
- * @author TAKeogh
+ * @author Prince
  * created 29-Nov-2020 8:30:00am.
  * @version 1.0
  * Concrete class of screen that extends FunctionalDialog and allows for the 
