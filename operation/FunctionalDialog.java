@@ -3,7 +3,7 @@ package operation;
 import java.util.Scanner;
 
 /**
- * @author TAKeogh
+ * @author Prince
  * created 29-Nov-2020 8:30:00am.
  * @version 1.0
  * Abstract class specifying an iterative getInput method that must be run i times
