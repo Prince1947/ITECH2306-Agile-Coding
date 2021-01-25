@@ -1,7 +1,7 @@
 package operation;
 
 /**
- * @author TAKeogh
+ * @author Prince
  * created 29-Nov-2020 8:30:00am.
  * @version 1.0
  * Entry point of Council System. The main creates an object of this class and then runs
